@@ -1,7 +1,6 @@
 ###Finds All Licensed Shared Mailboxes and Removes the License##
 
 
-
 $ApplicationId = "Enter ApplicationId"
 $ApplicationSecret = "Enter ApplicationSecret"
 $secPas = $ApplicationSecret| ConvertTo-SecureString -AsPlainText -Force
