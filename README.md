@@ -1,3 +1,3 @@
-#Pwsh Scripts
+#Powershell Scripts
 
 Scripts for Tenant administration
